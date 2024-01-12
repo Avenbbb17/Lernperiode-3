@@ -3,11 +3,9 @@ Avenazer Melles
 
 ## 12.1. bis 23.2.2024
 
-Grob-Planung
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-Was wäre ein geeignetes Projekt würd diese LP3?
-12.1.2024
+Meine aktuellen Noten lassen zu wünschen übrig, insbesondere im Modul 319. Als Lösungsansatz schlage ich vor, mich verstärkt auf das Programmieren zu konzentrieren. Mein Ziel ist es, meine Programmierkenntnisse zu verbessern, und ich werde mich daher intensiver auf dieses Fachgebiet fokussieren. Mein Programmierprojekt wird es sein ein Quizspiel zu erstellen mit einem Bewertungssystem.
+
+## 12.1.2024
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ## 19.1.2024
