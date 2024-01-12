@@ -21,9 +21,10 @@ Meine aktuellen Noten lassen zu wünschen übrig, insbesondere im Modul 319. Als
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1   PAP            |   Alle anforderungen                   |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+| 1. PAP            |   Alle anforderungen inbegriffen                  |                |                |          |
+| 2. Fragenbank             |  Speicherung der Fragen                    |                |                |          |
+| 3. Fragenanzeige          |  Korrekte ausgabe der Frage                    |                |                |          |
+| 4. Grobdesign         |     Passend zum testen                 |                |                |          |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
