@@ -10,7 +10,7 @@ Meine aktuellen Noten lassen zu wünschen übrig, insbesondere im Modul 319. Als
 
 ## 12.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich meine alten Programme durchgesehen und mich gefragt, welches Programmierprojekt ich als nächstes angehen möchte. Nach eingehender Überlegung habe ich mich für die Umsetzung eines Quizspiels entschieden. Allerdings stehe ich noch vor der Frage, zu welchem Thema ich das Quiz gestalten soll. Ich glaube, dass dieses Projekt in einem Zeitrahmen von etwa 3 Wochen realisierbar ist und mir dabei helfen wird, meine Programmierkenntnisse zu vertiefen. (60)
 
 ## 19.1.2024
 
