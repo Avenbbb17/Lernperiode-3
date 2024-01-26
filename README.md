@@ -24,7 +24,7 @@ Heute habe ich meine alten Programme durchgesehen und mich gefragt, welches Prog
 | 1. PAP            |   Alle anforderungen inbegriffen                  |                |                |        ja  |
 | 2. Fragenbank             |  Speicherung der Fragen                    |                |                |      ja    |
 | 3. Fragenanzeige          |  Korrekte ausgabe der Frage                    |                |                |   ja       |
-| 4. Grobdesign         |     Passend zum testen                 |                |                |          |nein                |          
+| 4. Grobdesign         |     Passend zum testen                 |                |                |          |nein     |          
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
