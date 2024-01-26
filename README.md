@@ -21,10 +21,10 @@ Heute habe ich meine alten Programme durchgesehen und mich gefragt, welches Prog
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1. PAP            |   Alle anforderungen inbegriffen                  |                |                |          |
-| 2. Fragenbank             |  Speicherung der Fragen                    |                |                |          |
-| 3. Fragenanzeige          |  Korrekte ausgabe der Frage                    |                |                |          |
-| 4. Grobdesign         |     Passend zum testen                 |                |                |          |
+| 1. PAP            |   Alle anforderungen inbegriffen                  |                |                |        ja  |
+| 2. Fragenbank             |  Speicherung der Fragen                    |                |                |      ja    |
+| 3. Fragenanzeige          |  Korrekte ausgabe der Frage                    |                |                |   ja       |
+| 4. Grobdesign         |     Passend zum testen                 |                |                |          |nein
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
@@ -39,9 +39,9 @@ Heute habe ich meine alten Programme durchgesehen und mich gefragt, welches Prog
 
 | Testfall-Nummer | Ausgangslage (Given)                                         | Eingabe (When)              | Ausgabe (Then) | Erfüllt? |
 | --------------- | ------------------------------------------------------------ | --------------------------- | -------------- | -------- |
-| 5               |                                                              |                             |                |          |
-| 7               | Spiel gestartet, Schlange lang genug, dass sie sich beissen kann | Schlange beisst sich selber | Spiel endet    |          |
-| 8               |                                                              |                             |                |          |
+| Antwortüberprüfung anzeige               |                                                              |                             |                |     ja     |
+|     Bewertungsanzeige          |  |     |        ja  |
+| Fehlerbehebung              |                                                              |                             |                |       ja   |
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
