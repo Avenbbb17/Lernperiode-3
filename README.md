@@ -43,10 +43,7 @@ Heute habe ich meine alten Programme durchgesehen und mich gefragt, welches Prog
 |     Bewertungsanzeige          |  |     |        ja  |
 | Fehlerbehebung              |                                                              |                             |                |       ja   |
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
-
+Heute habe ich meinen Code fertiggestellt. Ich habe meine Fragen hinzugefügt. Das Thema war die Schweiz und ich habe ein paar Funktionen hinzugefügt. Also ich habe eine Zufällige Reihenfolge der Fragen programmiert und auch noch die Bewertungen hinzugefügt. Ich hatte am anfang Probleme meinen Code auszuführen, aber durchs neustarten hatte es geklappt. (51)
 ## 16.2.2024
 
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
